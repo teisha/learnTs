@@ -1,3 +1,3 @@
 # learnTs
 
-[x] learned it!
+- [x] learned it!
